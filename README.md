@@ -42,3 +42,26 @@ This is an End-to-End Data Analytics Project created using Excel, SQL, and Power
 ## 👨‍💻 Author
 
 Indresh Kumar
+
+## Business Questions Solved
+
+- What is the total sales by region?
+- Which category generated the highest sales?
+- Which sub-category performed the best?
+- What is the monthly sales trend?
+- Which payment mode generated the highest sales?
+- What is the overall profit margin?
+- Which region generated the highest profit?
+- What are the key sales KPIs?
+
+## Key Insights
+
+- Identified top-performing regions and categories.
+- Compared sales performance across different payment modes.
+- Analyzed monthly sales trends.
+- Built KPI cards for business performance.
+- Created an interactive Power BI dashboard.
+
+## Project Conclusion
+
+This project demonstrates an end-to-end Data Analytics workflow using Excel, SQL, and Power BI. The dataset was cleaned, analyzed using SQL, and visualized in Power BI to generate business insights and interactive dashboards.
