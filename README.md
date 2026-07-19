@@ -1,3 +1,4 @@
+<img width="1219" height="558" alt="PowerBI_Dashbord_Screenshort" src="https://github.com/user-attachments/assets/ba57da55-52b2-4a3d-8240-c12e6cd23fe3" />
 # Nova Retail Sales Project
 
 ## 📌 Project Overview
