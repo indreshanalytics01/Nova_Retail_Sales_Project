@@ -36,7 +36,7 @@ This is an End-to-End Data Analytics Project created using Excel, SQL, and Power
 
 ## 📷 Dashboard Preview
 
-(Add the dashboard screenshot here in the next step.)
+![Dashboard Preview](PowerBI_Dashboard_Screenshot.png)
 
 ## 👨‍💻 Author
 
